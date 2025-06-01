@@ -30,7 +30,7 @@ To get started with the 0-255 Color Picker, follow these steps:
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://gitlab.com/Jakub-bites/0-255-color-picker/
+    git clone https://github.com/Jakub-bites/0-255-Color-Picker/
     ```
 2.  **Navigate to the project directory:**
     ```bash
