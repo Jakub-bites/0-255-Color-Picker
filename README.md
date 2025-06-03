@@ -59,7 +59,7 @@ Contributions to the 0-255 Color Picker are welcome! If you have ideas for new f
 3.  Make your changes.
 4.  Commit your changes (`git commit -m 'Add new feature'`).
 5.  Push to the branch (`git push origin feature/your-feature-name`).
-6.  Create a new **Merge Request**.
+6.  Create a new **Pull Request**.
 
 ---
 
