@@ -63,12 +63,6 @@ Contributions to the 0-255 Color Picker are welcome! If you have ideas for new f
 
 ---
 
-## Support
-
-If you encounter any issues or have questions, please open an issue on the GitLab repository.
-
----
-
 ## License
 
 This project is licensed under the **MIT License**.
